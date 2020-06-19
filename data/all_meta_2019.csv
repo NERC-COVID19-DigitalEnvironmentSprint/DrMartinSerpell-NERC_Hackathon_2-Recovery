@@ -1,0 +1,274 @@
+,index,site,code,latitude,longitude,site_type
+0,1,Aberdeen,ABD,57.15736,-2.094278,Urban Background
+1,2,Aberdeen Union Street Roadside,ABD7,57.144555,-2.106472,Urban Traffic
+2,3,Aberdeen Wellington Road,ABD8,57.133888,-2.094198,Urban Traffic
+3,4,Armagh Roadside,ARM6,54.353728,-6.654558,Urban Traffic
+4,5,Aston Hill,AH,52.50385,-3.034178,Rural Background
+5,6,Auchencorth Moss,ACTH,55.79216,-3.2429,Rural Background
+6,7,Ballymena Antrim Road,BAAR,54.851491,-6.274961,Urban Traffic
+7,8,Ballymena Ballykeel,BALM,54.861595,-6.250873,Urban Background
+8,9,Barnsley,BARN,53.580045,-1.475865,Urban Background
+9,10,Barnsley 12,BAR2,53.555930000000004,-1.485153,Urban Background
+10,11,Barnsley Gawber,BAR3,53.56292,-1.510436,Urban Background
+11,12,Barnstaple A39,BPLE,51.074793,-4.041924,Urban Traffic
+12,13,Bath A4 Roadside,BHA4,51.390922,-2.35503,Urban Traffic
+13,14,Bath Roadside,BATH,51.391127,-2.354155,Urban Traffic
+14,15,Belfast Centre,BEL2,54.59965,-5.928833,Urban Background
+15,16,Belfast Clara St,BEL4,54.591256,-5.89546,Suburban Background
+16,17,Belfast East,BEL,54.59653,-5.901667,Urban Background
+17,18,Belfast South,BEL3,54.59918,-5.912416,Urban Background
+18,19,Belfast Stockman's Lane,BEL1,54.572586,-5.974944,Urban Traffic
+19,20,Billingham,BIL,54.60537,-1.275039,Urban Industrial
+20,21,Bircotes,BIR,53.422855,-1.054946,Urban Background
+21,22,Birkenhead Borough Road,BBRD,53.388511,-3.025014,Urban Traffic
+22,23,Birmingham A4540 Roadside,BIRR,52.47609,-1.8750239999999998,Urban Traffic
+23,24,Birmingham Acocks Green,AGRN,52.437165,-1.829999,Urban Background
+24,25,Birmingham Centre,BIRM,52.479724,-1.908078,Urban Background
+25,26,Birmingham East,BIR2,52.49763,-1.8314979999999998,Urban Background
+26,27,Birmingham Kerbside,BHAM,52.328057,-1.907512,Urban Traffic
+27,28,Birmingham Ladywood,BMLD,52.481346,-1.918235,Urban Background
+28,29,Birmingham Tyburn,BIR1,52.511722,-1.8305829999999998,Urban Background
+29,30,Birmingham Tyburn Roadside,BIRT,52.512194,-1.830861,Urban Traffic
+30,31,Blackburn Accrington Road,BLAR,53.747751,-2.452724,Urban Traffic
+31,32,Blackburn Darwen Roadside,BLCB,53.715504,-2.483815,Urban Traffic
+32,33,Blackpool,BLAC,53.79046,-3.029283,Urban Background
+33,34,Blackpool Marton,BLC2,53.80489,-3.007175,Urban Background
+34,35,Bolton,BOLT,53.57232,-2.439583,Urban Background
+35,36,Borehamwood Meadow Park,BDMP,51.661229,-0.270671,Urban Background
+36,37,Bottesford,BOT,52.93028,-0.814722,Rural Background
+37,38,Bournemouth,BORN,50.73957,-1.826744,Urban Background
+38,39,Bradford Centre,BRAD,53.79339,-1.748694,Urban Background
+39,40,Bradford Mayo Avenue,BDMA,53.771245,-1.759774,Urban Traffic
+40,41,Brentford Roadside,BRN,51.489448,-0.310121,Urban Traffic
+41,42,Brighton Preston Park,BRT3,50.840836,-0.14757199999999998,Urban Background
+42,43,Brighton Roadside,BRIT,50.82354,-0.137281,Urban Traffic
+43,44,Bristol Centre,BRIS,51.45718,-2.585622,Urban Background
+44,45,Bristol East,BRS,51.45365,-2.578496,Urban Background
+45,46,Bristol Old Market,BRS2,51.45603,-2.583519,Urban Traffic
+46,47,Bristol St Paul's,BRS8,51.462839,-2.584482,Urban Background
+47,48,Bristol Temple Way,BR11,51.457968,-2.583975,Urban Traffic
+48,49,Bromley Roadside,BY1,51.4071,0.020128,Urban Traffic
+49,50,Burton-on-Trent Horninglow,BOTR,52.82105,-1.635718,Urban Background
+50,51,Bury Roadside,BURY,53.53911,-2.289611,Urban Traffic
+51,52,Bury Whitefield Roadside,BURW,53.559029,-2.293772,Urban Traffic
+52,53,Bush Estate,BUSH,55.862281,-3.205782,Rural Background
+53,54,Cambridge,CAMB,51.995804,0.037756,Urban Traffic
+54,55,Cambridge Roadside,CAM,52.20237,0.124456,Urban Traffic
+55,56,Camden Kerbside,CA1,51.54421,-0.17526899999999998,Urban Traffic
+56,57,Cannock A5190 Roadside,CANK,52.687298,-1.980821,Urban Traffic
+57,58,Canterbury,CANT,51.27399,1.098061,Urban Background
+58,59,Cardiff Centre,CARD,51.48178,-3.17625,Urban Background
+59,60,Cardiff East,CAR2,51.48887,-3.163711,Urban Background
+60,61,Cardiff Kerbside,CAR,51.482431,-3.17794,Urban Traffic
+61,62,Cardiff Newport Road,CNPR,51.49096,-3.152305,Urban Traffic
+62,63,Carlisle Roadside,CARL,54.894834,-2.945307,Urban Traffic
+63,64,Central London,CLL,51.494722,-0.13833299999999998,Urban Background
+64,65,Charlton Mackrell,MACK,51.05625,-2.68345,Rural Background
+65,66,Chatham Roadside,CHAT,51.374264,0.5479700000000001,Urban Traffic
+66,67,Chepstow A48,CHP,51.638094,-2.678731,Urban Traffic
+67,68,Chesterfield,CHS6,53.230583,-1.433611,Urban Background
+68,69,Chesterfield Loundsley Green,CHLG,53.244131,-1.454946,Urban Background
+69,70,Chesterfield Roadside,CHS7,53.231722,-1.456944,Urban Traffic
+70,71,Chilbolton Observatory,CHBO,51.149617,-1.438228,Rural Background
+71,72,Chilworth,CHIL,50.962706,-1.424677,Suburban Background
+72,73,Christchurch Barrack Road,CHBR,50.735454,-1.780888,Urban Traffic
+73,74,Coventry Allesley,COAL,52.411563,-1.560228,Urban Background
+74,75,Coventry Binley Road,COBR,52.407708,-1.490082,Urban Traffic
+75,76,Coventry Centre,COV2,52.41345,-1.522133,Urban Background
+76,77,Crewe Coppenhall,COPP,53.115941,-2.453492,Urban Background
+77,78,Cwmbran,CWMB,51.6538,-3.006953,Urban Background
+78,79,Derby St Alkmund's Way,DESA,52.922983,-1.469507,Urban Traffic
+79,80,Derry,DERY,55.001225,-7.329115,Urban Background
+80,81,Derry Rosemount,DERR,55.002818,-7.331179,Urban Background
+81,82,Dewsbury Ashworth Grove,DYAG,53.693104,-1.637111,Urban Background
+82,83,Doncaster A630 Cleveland Street,DCST,53.51824,-1.1380569999999999,Urban Traffic
+83,84,Dumbarton Roadside,DUMB,55.943197,-4.55973,Urban Traffic
+84,85,Dumfries,DUMF,55.070033,-3.614233,Urban Traffic
+85,86,Dundee Mains Loan,DCC1,56.475434,-2.959861,Urban Background
+86,87,Ealing Horn Lane,EA8,51.51895,-0.265617,Urban Traffic
+87,88,East Kilbride,EK,55.754737,-4.171789,Suburban Background
+88,89,Eastbourne,EB,50.805778,0.271611,Urban Background
+89,90,Edinburgh Centre,ED,55.95197,-3.195775,Urban Background
+90,91,Edinburgh Med. Sch.,ED2,55.94427,-3.191183,Urban Background
+91,92,Edinburgh Nicolson Street,EDNS,55.94476,-3.183991,Urban Traffic
+92,93,Edinburgh St Leonards,ED3,55.945589,-3.182186,Urban Background
+93,94,Eskdalemuir,ESK,55.31531,-3.206111,Rural Background
+94,95,Exeter Roadside,EX,50.725083,-3.532465,Urban Traffic
+95,96,Featherstone,FEA,53.670222,-1.3521459999999998,Urban Background
+96,97,Fort William,FW,56.82266,-5.101102,Suburban Background
+97,98,Glasgow Centre,GLA3,55.857730000000004,-4.255161,Urban Background
+98,99,Glasgow City Chambers,GLA,55.860414,-4.245959,Urban Background
+99,100,Glasgow Great Western Road,GGWR,55.872038,-4.270936,Urban Traffic
+100,101,Glasgow High Street,GHSR,55.860936,-4.238214,Urban Traffic
+101,102,Glasgow Hope St,GLAS,55.858317,-4.259062,Urban Traffic
+102,103,Glasgow Kerbside,GLA4,55.85917,-4.258889,Urban Traffic
+103,104,Glasgow Townhead,GLKP,55.865782,-4.243631,Urban Background
+104,105,Glazebury,GLAZ,53.46008,-2.472056,Rural Background
+105,106,Grangemouth,GRAN,56.010319,-3.704399,Urban Industrial
+106,107,Grangemouth Moray,GRA2,56.013142,-3.710833,Urban Industrial
+107,108,Great Dun Fell,GDF,54.684233,-2.450799,Rural Background
+108,109,Greenock A8 Roadside,GKA8,55.944079,-4.734421,Urban Traffic
+109,110,Hafod-yr-ynys Roadside,CAE6,51.680579,-3.133508,Urban Traffic
+110,111,Haringey Roadside,HG1,51.5993,-0.068218,Urban Traffic
+111,112,Hartlepool St Abbs Walk,HSAW,54.683242,-1.203838,Urban Background
+112,113,Harwell,HAR,51.571078,-1.325283,Rural Background
+113,114,High Muffles,HM,54.334944,-0.8085500000000001,Rural Background
+114,115,Honiton,HONI,50.792287,-3.196702,Urban Background
+115,116,Horley,HORE,51.165865,-0.167734,Suburban Industrial
+116,117,Hounslow Roadside,HS1,51.48965,-0.308975,Urban Traffic
+117,118,Hove Roadside,HOVE,50.82778,-0.170294,Urban Traffic
+118,119,Hull Centre,HULL,53.74479,-0.338322,Urban Background
+119,120,Hull Freetown,HUL2,53.748780000000004,-0.34122199999999997,Urban Background
+120,121,Hull Holderness Road,HULR,53.758971,-0.305749,Urban Traffic
+121,122,Immingham Woodlands Avenue,IMGM,53.619241,-0.21332399999999999,Urban Background
+122,123,Inverness,INV2,57.481308,-4.241451,Urban Traffic
+123,124,Ladybower,LB,53.40337,-1.752006,Rural Background
+124,125,Leamington Spa,LEAM,52.28881,-1.5331190000000001,Urban Background
+125,126,Leamington Spa Rugby Road,LEAR,52.294884,-1.542911,Urban Traffic
+126,127,Leeds Centre,LEED,53.80378,-1.546472,Urban Background
+127,128,Leeds Headingley Kerbside,LED6,53.819972,-1.576361,Urban Traffic
+128,129,Leeds Potternewton,LDS,53.82568,-1.535098,Urban Background
+129,130,Leicester A594 Roadside,LEIR,52.638677,-1.124228,Urban Traffic
+130,131,Leicester Centre,LEIC,52.631348,-1.133006,Urban Background
+131,132,Leicester University,LECU,52.619823,-1.127311,Urban Background
+132,133,Leominster,LEOM,52.22174,-2.736665,Suburban Background
+133,134,Lerwick,LERW,60.13922,-1.185319,Rural Background
+134,135,Lincoln Canwick Road,LIN3,53.221373,-0.534189,Urban Traffic
+135,136,Lincoln Roadside,LINC,53.22889,-0.537895,Urban Traffic
+136,137,Liverpool Centre,LIVR,53.40845,-2.9802489999999997,Urban Background
+137,138,Liverpool Queen's Drive Roadside,LV6,53.446944,-2.9625,Urban Traffic
+138,139,Liverpool Speke,LVP,53.34633,-2.844333,Urban Industrial
+139,140,London A3 Roadside,A3,51.37348,-0.291853,Urban Traffic
+140,141,London Bexley,BEX,51.46603,0.184806,Suburban Background
+141,142,London Bloomsbury,CLL2,51.52229,-0.125889,Urban Background
+142,143,London Brent,BREN,51.589769,-0.276223,Urban Background
+143,144,London Bridge Place,BRI,51.49521,-0.141655,Urban Background
+144,145,London Bromley,BY2,51.40555,0.018869,Urban Traffic
+145,146,London Canvey,CAN,51.53308,0.5678369999999999,Urban Industrial
+146,147,London Cromwell Road,CRD,51.49492,-0.180564,Urban Traffic
+147,148,London Cromwell Road 2,CRD2,51.495483,-0.17870899999999998,Urban Traffic
+148,149,London Eltham,LON6,51.45258,0.070766,Suburban Background
+149,150,London Hackney,HK4,51.55877,-0.056591999999999996,Urban Background
+150,151,London Haringey,HG2,51.58603,-0.126486,Urban Background
+151,152,London Haringey Priory Park South,HG4,51.584128,-0.125254,Urban Background
+152,153,London Harlington,HRL,51.48879,-0.441614,Urban Industrial
+153,154,London Harrow,HARR,51.57389,-0.352051,Suburban Background
+154,155,London Harrow Stanmore,HR3,51.617333,-0.29877699999999996,Urban Background
+155,156,London Hillingdon,HIL,51.49633,-0.46086099999999997,Urban Background
+156,157,London Honor Oak Park,HP1,51.449674,-0.037418,Urban Background
+157,158,London Islington,ISL,51.531362,-0.096954,Urban Background
+158,159,London Lewisham,LW1,51.44541,-0.020139,Urban Background
+159,160,London Marylebone Road,MY1,51.52253,-0.154611,Urban Traffic
+160,161,London N. Kensington,KC1,51.52105,-0.213492,Urban Background
+161,162,London Southwark,SK1,51.49055,-0.09666699999999999,Urban Background
+162,163,London Sutton,SUT3,51.36789,-0.165489,Suburban Background
+163,164,London Teddington,TED,51.42099,-0.339647,Urban Background
+164,165,London Teddington Bushy Park,TED2,51.425286,-0.34560599999999997,Urban Background
+165,166,London UCL,LON5,51.52378,-0.128958,Urban Background
+166,167,London Wandsworth,WA2,51.45696,-0.191164,Urban Background
+167,168,London Westminster,HORS,51.49467,-0.131931,Urban Background
+168,169,Lough Navar,LN,54.43951,-7.900328,Rural Background
+169,170,Lullington Heath,LH,50.7937,0.18125000000000002,Rural Background
+170,171,Luton A505 Roadside,LUTR,51.892293,-0.46211,Urban Traffic
+171,172,Manchester Piccadilly,MAN3,53.48152,-2.237881,Urban Background
+172,173,Manchester Sharston,MAHG,53.371306,-2.239218,Suburban Industrial
+173,174,Manchester South,MAN4,53.369026,-2.24328,Suburban Industrial
+174,175,Manchester Town Hall,MAN,53.4785,-2.2448,Urban Background
+175,176,Market Harborough,MKTH,52.554444,-0.772222,Rural Background
+176,177,Middlesbrough,MID,54.569297,-1.220874,Urban Industrial
+177,178,Mold,MOLD,53.162306,-3.144889,Suburban Background
+178,179,Narberth,PEMB,51.781784,-4.691462,Rural Background
+179,180,Newcastle Centre,NEWC,54.97825,-1.610528,Urban Background
+180,181,Newcastle Cradlewell Roadside,NCA3,54.986405,-1.595362,Urban Traffic
+181,182,Newport,NPT3,51.601203,-2.977281,Urban Background
+182,183,Northampton,NTON,52.27349,-0.885933,Urban Background
+183,184,Northampton Kingsthorpe,NTN3,52.271886,-0.879898,Urban Background
+184,185,Northampton Spring Park,NTN4,52.272257,-0.916605,Urban Background
+185,186,Norwich Centre,NOR2,52.63203,1.295019,Urban Background
+186,187,Norwich Forum Roadside,NO10,52.62817,1.291714,Urban Traffic
+187,188,Norwich Lakenfields,NO12,52.614193,1.301976,Urban Background
+188,189,Norwich Roadside,NOR1,52.622,1.299064,Urban Traffic
+189,190,Nottingham Centre,NOTT,52.95473,-1.146447,Urban Background
+190,191,Nottingham Western Boulevard,NWBV,52.969377,-1.188851,Urban Traffic
+191,192,Oldbury Birmingham Road,BOLD,52.502436,-2.003497,Urban Traffic
+192,193,Oxford Centre Roadside,OX,51.751745,-1.257463,Urban Traffic
+193,194,Oxford St Ebbes,OX8,51.744806,-1.260278,Urban Background
+194,195,Peebles,PEEB,55.657472,-3.196527,Urban Background
+195,196,Plymouth Centre,PLYM,50.37167,-4.142361,Urban Background
+196,197,Plymouth Tavistock Road,PLYR,50.411058,-4.130288,Urban Traffic
+197,198,Port Talbot,PT,51.5798,-3.76169,Urban Industrial
+198,199,Port Talbot Margam,PT4,51.58395,-3.770822,Urban Industrial
+199,200,Portsmouth,PMTH,50.82881,-1.068583,Urban Background
+200,201,Portsmouth Anglesea Road,POAR,50.798339,-1.095558,Urban Traffic
+201,202,Preston,PRES,53.76559,-2.680353,Urban Background
+202,203,Reading,READ,51.45352,-0.95518,Urban Background
+203,204,Reading London Road,REA5,51.454896,-0.9403819999999999,Urban Traffic
+204,205,Reading New Town,REA1,51.45309,-0.944067,Urban Background
+205,206,Redcar,REDC,54.610735,-1.0733,Suburban Background
+206,207,Rochester Stoke,ROCH,51.45617,0.6348889999999999,Rural Background
+207,208,Rotherham Centre,ROTH,53.43186,-1.354444,Urban Background
+208,209,Rugeley,RUGE,52.753297,-1.9377300000000002,Urban Background
+209,210,Salford Eccles,ECCL,53.48481,-2.334139,Urban Background
+210,211,Saltash Callington Road,SASH,50.411463,-4.227678,Urban Traffic
+211,212,Saltash Roadside,SALT,50.4131,-4.2303,Urban Traffic
+212,213,Sandwell Oldbury,OLDB,52.50431,-2.017629,Urban Background
+213,214,Sandwell West Bromwich,WBRO,52.52062,-1.995556,Urban Background
+214,215,Sandy Roadside,SDY,52.132417,-0.30030599999999996,Urban Traffic
+215,216,Scunthorpe,SCUN,53.58499,-0.633015,Urban Industrial
+216,217,Scunthorpe Town,SCN2,53.58634,-0.636811,Urban Industrial
+217,218,Shaw Crompton Way,CW,53.579283,-2.093786,Urban Traffic
+218,219,Sheffield Barnsley Road,SHBR,53.40495,-1.4558149999999999,Urban Traffic
+219,220,Sheffield Centre,SHE2,53.37772,-1.473306,Urban Background
+220,221,Sheffield Devonshire Green,SHDG,53.378622,-1.4780959999999999,Urban Background
+221,222,Sheffield Tinsley,SHE,53.41058,-1.396139,Urban Background
+222,223,Sibton,SIB,52.2944,1.463497,Rural Background
+223,224,Somerton,SOM,51.03572,-2.735253,Rural Background
+224,225,Southampton A33,SA33,50.920265,-1.463484,Urban Traffic
+225,226,Southampton Centre,SOUT,50.90814,-1.395778,Urban Background
+226,227,Southend-on-Sea,SEND,51.544206,0.678408,Urban Background
+227,228,Southwark A2 Old Kent Road,SK5,51.480499,-0.059550000000000006,Urban Traffic
+228,229,Southwark Roadside,SK2,51.48199,-0.0623,Urban Traffic
+229,230,St Helens Linkway,SHLW,53.451826,-2.742134,Urban Traffic
+230,231,St Osyth,OSY,51.77798,1.049031,Rural Background
+231,232,Stanford-le-Hope Roadside,HOPE,51.518167,0.439548,Urban Traffic
+232,233,Stevenage,STE,51.886944,-0.20083299999999998,Suburban Background
+233,234,Stewartby,STEW,52.071944,-0.511111,Urban Industrial
+234,235,Stockport,STOC,53.40994,-2.1582,Urban Background
+235,236,Stockport Shaw Heath,STK4,53.40306,-2.161111,Urban Background
+236,237,Stockton-on-Tees A1305 Roadside,SOTR,54.565819,-1.3159,Urban Traffic
+237,238,Stockton-on-Tees Eaglescliffe,EAGL,54.516667,-1.358547,Urban Traffic
+238,239,Stockton-on-Tees Yarm,YARM,54.50918,-1.354319,Urban Traffic
+239,240,Stoke-on-Trent A50 Roadside,STKR,52.980436,-2.111898,Urban Traffic
+240,241,Stoke-on-Trent Centre,STOK,53.02821,-2.1751329999999998,Urban Background
+241,242,Storrington Roadside,STOR,50.916932,-0.449548,Urban Traffic
+242,243,Strathvaich,SV,57.734456,-4.776583,Rural Background
+243,244,Sunderland,SUND,54.906106,-1.3800810000000001,Urban Background
+244,245,Sunderland Silksworth,SUN2,54.88361,-1.4068779999999999,Urban Background
+245,246,Sunderland Wessington Way,SUNR,54.91839,-1.408391,Urban Traffic
+246,247,Sutton Roadside,SUT1,51.36636,-0.18278899999999998,Urban Traffic
+247,248,Swansea,SWAN,51.62114,-3.943329,Urban Background
+248,249,Swansea Roadside,SWA1,51.632696,-3.947374,Urban Traffic
+249,250,Swindon Walcot,SWHO,51.558061,-1.7656779999999999,Urban Background
+250,251,Telford Hollinswood,TDHD,52.673471,-2.436692,Urban Background
+251,252,Thurrock,THUR,51.47707,0.317969,Urban Background
+252,253,Tower Hamlets Roadside,TH2,51.52253,-0.042155,Urban Traffic
+253,254,Walsall Alumwell,WAL,52.58167,-2.010483,Urban Background
+254,255,Walsall Willenhall,WAL2,52.60821,-2.033144,Urban Background
+255,256,Walsall Woodlands,WAL4,52.605621,-2.030523,Urban Background
+256,257,Warrington,WAR,53.38928,-2.615358,Urban Industrial
+257,258,West Bromwich Kenrick Park,WBKP,52.508337,-1.986008,Urban Background
+258,259,West London,WL,51.4938,-0.20036099999999998,Urban Background
+259,260,Weybourne,WEYB,52.95049,1.122017,Rural Background
+260,261,Wharleycroft,WC,54.616238,-2.468931,Rural Background
+261,262,Wicken Fen,WFEN,52.2985,0.290917,Rural Background
+262,263,Widnes Milton Road,WSMR,53.365391,-2.73168,Urban Traffic
+263,264,Wigan Centre,WIG5,53.54914,-2.638139,Urban Background
+264,265,Wigan Leigh,WIG3,53.49422,-2.5068989999999998,Urban Background
+265,266,Wirral Tranmere,TRAN,53.37287,-3.022722,Urban Background
+266,267,Wolverhampton Centre,WOLV,52.58818,-2.129008,Urban Background
+267,268,Worthing A27 Roadside,WTHG,50.832947,-0.379916,Urban Traffic
+268,269,Wray,WRAY,54.104666,-2.584182,Rural Background
+269,270,Wrexham,WREX,53.04222,-3.002778,Urban Traffic
+270,271,Yarner Wood,YW,50.5976,-3.71651,Rural Background
+271,272,York Bootham,YK10,53.967513,-1.086514,Urban Background
+272,273,York Fishergate,YK11,53.951889,-1.075861,Urban Traffic
